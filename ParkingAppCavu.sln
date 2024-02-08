@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingAppCavu", "ParkingAppCavu\ParkingAppCavu.csproj", "{C19D5FED-8CC7-4277-94B2-D39811B8128A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingAppCavu.Tests", "ParkingAppCavu.Tests\ParkingAppCavu.Tests.csproj", "{E73FA6EC-E912-4FDD-B3E0-1FF162A1AECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C19D5FED-8CC7-4277-94B2-D39811B8128A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C19D5FED-8CC7-4277-94B2-D39811B8128A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C19D5FED-8CC7-4277-94B2-D39811B8128A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73FA6EC-E912-4FDD-B3E0-1FF162A1AECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73FA6EC-E912-4FDD-B3E0-1FF162A1AECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73FA6EC-E912-4FDD-B3E0-1FF162A1AECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73FA6EC-E912-4FDD-B3E0-1FF162A1AECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+@ParkingAppCavu_HostAddress = http://localhost:5081
+
+GET {{ParkingAppCavu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
